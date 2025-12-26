@@ -915,3 +915,5 @@ config/database.yml
 *.zip
 
 # ===== END =====
+!public/
+!public/**
